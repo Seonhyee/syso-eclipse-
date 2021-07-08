@@ -7,15 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	syso 화이팅!
-		test
-		updaate
-
-	syso 화이팅!!!
-	syso 화이팅22
-	
-	syso 화이팅333
-
+복원
 </body>
 </html>
