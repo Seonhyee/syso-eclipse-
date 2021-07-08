@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	syso 화이팅!
+	syso 화이팅!!!
 </body>
 </html>
